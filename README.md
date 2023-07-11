@@ -6,7 +6,7 @@
 
 <p align='center'>🌟 FlexBlog: Descomplicando o Flexbox em um Site Didático e Profissional 📚💻</p><br>
 
-<p align='center'>Bem-vindo(a) ao FlexBlog, um site de blog que tem como objetivo principal ensinar de forma simplificada o Flexbox, uma poderosa ferramenta de layout do CSS. Desenvolvemos este projeto utilizando HTML e CSS, de forma responsiva e dinâmica, com uma abordagem didática, intuitiva e profissional.</p><br><hr><br>
+<p align='center'>Bem-vindo(a) ao FlexBlog, um site de blog que tem como objetivo principal ensinar de forma simplificada o Flexbox, uma poderosa ferramenta de layout do CSS. Desenvolvemos este projeto utilizando HTML e CSS, de forma responsiva e dinâmica, com uma abordagem didática e intuitiva. Este projeto foi idealizado no curso da Origamid no qual participei com finalidade de aprofundar meus conhecimento no flexbox. </p><br><hr><br>
 
 <p align='center'>✨ Destacando conhecimentos adquiridos:</p>
 
