@@ -19,3 +19,12 @@
 <p>✅ Design intuitivo e profissional: O FlexBlog possui um design cuidadosamente elaborado, com uma navegação intuitiva e visualmente atraente. Com uma identidade visual coesa e uma tipografia legível, transmitimos profissionalismo e seriedade em nosso conteúdo.</p><br>
 
 <p>🚀 O FlexBlog é o resultado de um projeto que alia conhecimento técnico, didática e profissionalismo. Através dele, os leitores aprenderão o Flexbox de forma simplificada e terão uma base sólida para aplicá-lo em seus próprios trabalhos, criando layouts flexíveis e responsivos.</p>
+
+<br>
+
+<h2>
+    💻✍️ Tecnologias:
+</h2>
+<br>
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
